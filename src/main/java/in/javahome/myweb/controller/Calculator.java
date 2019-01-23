@@ -14,10 +14,12 @@ public class Calculator {
 	 * @param j
 	 * @return int
 	 */
-	     /*   String s = null;
-		s.toString();
-           */
+	    
 	public int add(int i, int j){
+		
+	        String s = null;
+		s.toString();
+           
 		return i+j;
 	}
 	public int multiply(int i, int j){

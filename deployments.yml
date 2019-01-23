@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: chaitu9642/myweb:5.0.0
+        image: chaitu9642/myweb:6.0.0
         ports:
         - containerPort: 8080

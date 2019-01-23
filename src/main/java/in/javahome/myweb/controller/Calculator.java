@@ -14,8 +14,9 @@ public class Calculator {
 	 * @param j
 	 * @return int
 	 */
-	        String s = null;
+	     /*   String s = null;
 		s.toString();
+           */
 	public int add(int i, int j){
 		return i+j;
 	}
